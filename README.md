@@ -2,16 +2,16 @@
 <h3 align="center">A passionate Full-Stack Developer | BSc IT Graduate | Building practical solutions using .NET Core, React, and more</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=preet2916&label=Profile%20views&color=0e75b6&style=flat" alt="preet2916" />
 </p>
 
 <h2>👨‍💻 About Me</h2>
 <ul>
   <li>🎓 Final Year BSc IT Student (Batch C, Sem-6)</li>
-  <li>💼 Currently working at <strong>L&T</strong> as a Developer Intern</li>
+  <li>💼 Currently working at <strong>Visitorz Tech Pvt. Ltd</strong> as a Developer Intern</li>
   <li>🚀 Building Smart Expense Tracker, SecureQuizApp, Crowdfunding Platform & more</li>
-  <li>📫 How to reach me: <a href="mailto:yourmail@example.com">yourmail@example.com</a></li>
-  <li>🌱 Learning: ASP.NET Core, React, SignalR, MongoDB</li>
+  <li>📫 How to reach me: <a href="preetchauhan2916@gmail.com">preetchauhan2916@gmail.com</a></li>
+  <li>🌱 Learning: ASP.NET Core, React</li>
   <li>💡 Passionate about practical coding, clean UI, and modern web apps</li>
 </ul>
 
@@ -26,10 +26,10 @@
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="Preet's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preet2916&show_icons=true&theme=default" alt="Preet's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preet2916" alt="GitHub Streak" />
 </p>
 
 <h2>🌐 Connect with Me</h2>
