@@ -1,50 +1,63 @@
 <h1 align="center">Hi 👋, I'm Preet</h1>
-<h3 align="center">A passionate Full-Stack Developer | BSc IT Graduate | Building practical solutions using .NET Core, React, and more</h3>
+<h3 align="center">A Passionate Full-Stack Developer | BSc IT Graduate | Crafting Practical Solutions using .NET Core, React & More</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preet2916&label=Profile%20views&color=0e75b6&style=flat" alt="preet2916" />
+  <img src="https://komarev.com/ghpvc/?username=preet2916&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h2>👨‍💻 About Me</h2>
-<ul>
-  <li>🎓 Final Year BSc IT Student (Batch C, Sem-6)</li>
-  <li>💼 Currently working at <strong>Visitorz Tech Pvt. Ltd</strong> as a Developer Intern</li>
-  <li>🚀 Building Smart Expense Tracker, SecureQuizApp, Crowdfunding Platform & more</li>
-  <li>📫 How to reach me: <a href="preetchauhan2916@gmail.com">preetchauhan2916@gmail.com</a></li>
-  <li>🌱 Learning: ASP.NET Core, React</li>
-  <li>💡 Passionate about practical coding, clean UI, and modern web apps</li>
-</ul>
+---
 
-<h2>🛠️ Tech Stack</h2>
-<ul>
-  <li><strong>Languages:</strong> C#, JavaScript, SQL</li>
-  <li><strong>Frontend:</strong> HTML, CSS, Bootstrap, Tailwind, React.js, Vite</li>
-  <li><strong>Backend:</strong> ASP.NET Core MVC, Node.js, Express</li>
-  <li><strong>Database:</strong> SQL Server, MongoDB</li>
-  <li><strong>Tools:</strong> Git, GitHub, Postman, VS Code, Visual Studio</li>
-</ul>
+### 👨‍💻 About Me
+- 🎓 Final Year BSc IT Student (Sem-6)  
+- 💼 Developer Intern at **Visitorz Tech Pvt. Ltd**  
+- 🚀 Currently working on: FinTrack - Smart Expense Tracker, EduShield - Smart and Secure Online Exams & More
+- 💡 Passionate about practical coding, clean UI, and building modern web apps  
+- 📫 Reach me at: [preetchauhan2916@gmail.com](mailto:preetchauhan2916@gmail.com)
 
-<h2>📈 GitHub Stats</h2>
+---
+
+### 🛠️ Tech Stack
+
+#### 🌐 Frontend
+`HTML` • `CSS` • `Bootstrap` • `Tailwind CSS` • `JavaScript` • `jQuery` • `React.js` • `Vite`
+
+#### 🔧 Backend
+`C#` • `PHP` • `Java` • `ASP.NET Core`
+
+#### 🗄️ Server & Database
+`SQL Server` • `Oracle`
+
+#### ⚙️ Other Tools & Platforms
+`Android` • `Git` • `GitHub` • `Postman` • `VS Code` • `Visual Studio`
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preet2916&show_icons=true&theme=default" alt="Preet's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preet2916&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Preet's GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preet2916" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preet2916&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<h2>🌐 Connect with Me</h2>
-<p>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/preet-chauhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://www.facebook.com/preet.chauhan2916" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+  <a href="https://www.instagram.com/ll.preet_chauhan.ll/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<hr>
+---
 
-<p align="center">⚡ Keep coding, keep building!</p>
+<p align="center"><strong>⚡ Keep coding, keep building!</strong></p>
