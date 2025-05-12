@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year BSc IT Student (Sem-6)  
 - 💼 Developer Intern at **Visitorz Tech Pvt. Ltd.**  
 - 🚀 Working on: **FinTrack** (Smart Expense Tracker), **EduShield** (Secure Online Exams)  
 - 💡 Focused on practical coding, clean UI & modern web apps  
