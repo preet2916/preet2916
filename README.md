@@ -38,10 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=preet2916&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Preet's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preet2916&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
